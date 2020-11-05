@@ -8,19 +8,17 @@ function App() {
     <div className="App">
       {/* Esto es JSX */}    
       <header className="App-header">
-        <HolaMundo />
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
+      
+        
+        
         <ComponenteOldSchool />
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://validacion.rodrigo-montenegro.me"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Bienvenido al super curso de react.
+        
         </a>
       </header>
     </div>

@@ -32,8 +32,8 @@ export class ComponenteOldSchool extends React.Component
       
 
     render(){
-        return (<div><p>El componente nro 4556736621 mas cool del mundo</p>
-            <p><img alt="marcelito" src="https://elintra.com.ar/wp-content/uploads/2020/08/Marcelo-Bielsa.jpg" /></p>
+        return (<div><p>El componente cogollin </p>
+            <p><img alt="cogollito" src="https://www.alchimiaweb.com/blog/wp-content/uploads/2012/11/1-Qleaner-TGA-Subcool-743x1024-217x300.jpg" /></p>
         <h1>{this.mostrarMensaje()}</h1>
         <h2>Segundos : {this.state.seconds}</h2>
         </div>)
